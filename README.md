@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Hello, I'm Tolga, an Electrical and Electronics Engineer. Currently, I work as a System Administrator at the Ministry of Interior. I am responsible for ensuring the smooth operation of the entire network system at my workplace. Additionally, I have a keen interest in software development and constantly strive to enhance my skills through courses and certifications on platforms like Udemy and YouTube. My GitHub profile showcases repositories consisting of project assignments from these courses as well as personal projects. I am particularly drawn to Python, HTML, CSS, and Django within the realm of software development. I thoroughly enjoy continuous self-improvement and aspire to enhance my expertise in web development. Feel free to explore my repositories for relevant content in these areas.
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Python, HTML, CSS, Django
+- 📫 How to reach me: linkedin.com/in/tolga-arslan-198083107 and eng.tolgaarslan@gmail.com
 <!--
 **arslantolga/arslantolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
